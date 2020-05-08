@@ -1,0 +1,10 @@
+F:\!!!Studia_Semestr5\Grafika\Projekty\Sierpinski'sTriangle\Sierpinski'sTriangle\bin\Debug\Sierpinski'sTriangle.exe.config
+F:\!!!Studia_Semestr5\Grafika\Projekty\Sierpinski'sTriangle\Sierpinski'sTriangle\bin\Debug\Sierpinski'sTriangle.exe
+F:\!!!Studia_Semestr5\Grafika\Projekty\Sierpinski'sTriangle\Sierpinski'sTriangle\bin\Debug\Sierpinski'sTriangle.pdb
+F:\!!!Studia_Semestr5\Grafika\Projekty\Sierpinski'sTriangle\Sierpinski'sTriangle\obj\Debug\Sierpinski'sTriangle.csprojResolveAssemblyReference.cache
+F:\!!!Studia_Semestr5\Grafika\Projekty\Sierpinski'sTriangle\Sierpinski'sTriangle\obj\Debug\Sierpinski_sTriangle.Form1.resources
+F:\!!!Studia_Semestr5\Grafika\Projekty\Sierpinski'sTriangle\Sierpinski'sTriangle\obj\Debug\Sierpinski_sTriangle.Properties.Resources.resources
+F:\!!!Studia_Semestr5\Grafika\Projekty\Sierpinski'sTriangle\Sierpinski'sTriangle\obj\Debug\Sierpinski'sTriangle.csproj.GenerateResource.Cache
+F:\!!!Studia_Semestr5\Grafika\Projekty\Sierpinski'sTriangle\Sierpinski'sTriangle\obj\Debug\Sierpinski'sTriangle.csproj.CoreCompileInputs.cache
+F:\!!!Studia_Semestr5\Grafika\Projekty\Sierpinski'sTriangle\Sierpinski'sTriangle\obj\Debug\Sierpinski'sTriangle.exe
+F:\!!!Studia_Semestr5\Grafika\Projekty\Sierpinski'sTriangle\Sierpinski'sTriangle\obj\Debug\Sierpinski'sTriangle.pdb
